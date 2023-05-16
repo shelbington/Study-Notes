@@ -17,3 +17,5 @@ secondary memory(persistant) -- Slower large permanent stoarge - lasts until del
 Shell -- a user interface for access to an operating system's services. It can be either a command-line interface (CLI) or a graphical interface (GUI). In a shell, users can execute commands, run scripts, or use applications to interact with the system. Common examples of shells include Bash, Zsh, and the Windows Command Prompt.
 
 Bash -- a popular shell in Unix and Linux systems. It is an improved version of the Bourne Shell (sh), offering advanced features like command line editing, command history, and command completion. Bash is commonly used for executing commands and scripting.
+
+Path -- the address of a file or directory on your computer. It shows the route you need to take to find it, starting from the root directory and proceeding through all subsequent directories.
