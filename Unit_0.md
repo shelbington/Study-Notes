@@ -14,7 +14,7 @@ primary memory(RAM) -- Is the computer's working memory. It temporarily stores d
 
 secondary memory(persistant) -- Slower large permanent stoarge - lasts until deleted - disk drive/memory stick
 
-Shell -- a user interface for access to an operating system's services. It can be either a command-line interface (CLI) or a graphical interface (GUI). In a shell, users can execute commands, run scripts, or use applications to interact with the system. Common examples of shells include Bash, Zsh, and the Windows Command Prompt.
+Shell -- a command-line interface program on a computer that allows the user to interact with the computer’s file system
 
 Bash -- a popular shell in Unix and Linux systems. It is an improved version of the Bourne Shell (sh), offering advanced features like command line editing, command history, and command completion. Bash is commonly used for executing commands and scripting.
 
