@@ -24,16 +24,22 @@ PATH -- an environment variable in operating systems that specifies a set of dir
 
 zsh -- short for "Z Shell," is an alternative command-line shell to the more commonly used Bash shell in Unix-like operating systems. It is designed to be an interactive shell with advanced features, improved user experience, and enhanced scripting capabilities.
 
-node
+Node.js -- Node.js is an open-source, cross-platform, JavaScript runtime environment that executes JavaScript code outside of a web browser.
 
-package management system
+package management system -- A package management system is a tool that automates the process of installing, upgrading, configuring, and removing software packages (libraries, frameworks, tools, etc.) in a consistent manner.Examples of package managers include npm for Node.js, pip for Python, apt for Ubuntu, and yum for Fedora and CentOS, among many others.
 
-command line flags
+Homebrew -- a free and open-source software package management system that simplifies the installation of software on Apple's macOS operating system and Linux. It's designed to make it easier to install a wide range of software and to handle any dependencies the software might have.
 
-html
+command line flags -- parameters that are passed to a command-line program. They modify the behavior of the program. Flags usually follow the main command and start with a hyphen ("-") or double hyphen ("--").
 
-css
+html -- the standard language for creating web pages and web applications. HTML describes the structure of a web page semantically and, originally, included cues for the appearance of the document.
 
-code editor
+css -- controls the visual appearance of the web page elements, including layout, color, fonts, spacing, and much more.
 
-function declaration vs function expression
+function declaration -- defines a function with the specified parameters. It begins with the "function" keyword. It has the advantage of being hoisted, meaning it can be used before it's defined in your code.
+
+function example() {}
+
+function expression -- a way to define a function as part of a variable assignment expression. Function expressions are not hoisted, which means that you can't call the function before you define it in your code.let
+
+let example = function() {}
