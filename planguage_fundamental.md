@@ -24,3 +24,18 @@ A method is essentially a function, but it's associated with an object or a clas
 Function Declaration vs Function Expression:
 
 The main difference, beyond syntax, is that function expresssion are not hoisted and function declarations are. You can't use function expressions before you create them.
+
+Frontend Development:
+
+The process of creating the user interface (UI) of a website or web application. This includes the layout, design, and functionality of the elements that users see and interact with, such as text, images, buttons, and forms. Frontend developers use programming languages such as HTML, CSS, and JavaScript to create the UI.
+
+Backend Development:
+
+The process of creating the server-side logic of a website or web application. This includes the code that handles data storage, retrieval, and processing. Backend developers use programming languages such as Python, Java, and PHP to create the backend logic.
+
+Key differences between frontend and backend development:
+
+Focus: Frontend development focuses on the user interface, design, and client-side interactions, while backend development focuses on the server-side logic and infrastructure.
+Technologies: Frontend development primarily involves HTML, CSS, and JavaScript, while backend development involves a broader range of programming languages and frameworks.
+User Interaction: Frontend development handles user interactions and provides a visual interface, while backend development handles data processing, storage, and communication between the frontend and the server.
+Execution Environment: Frontend code runs in the user's web browser, while backend code runs on the server.
