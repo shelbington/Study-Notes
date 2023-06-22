@@ -20,3 +20,7 @@ Examples of semantic HTML elements include:
 Function vs Method:
 
 A method is essentially a function, but it's associated with an object or a class. It's defined within a class and is typically used to perform operations that are relevant to that class. Methods are invoked on specific instances of an object and they can access data contained within that instance.
+
+Function Declaration vs Function Expression:
+
+The main difference, beyond syntax, is that function expresssion are not hoisted and function declarations are. You can't use function expressions before you create them.
