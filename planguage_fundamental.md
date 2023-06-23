@@ -39,3 +39,7 @@ Focus: Frontend development focuses on the user interface, design, and client-si
 Technologies: Frontend development primarily involves HTML, CSS, and JavaScript, while backend development involves a broader range of programming languages and frameworks.
 User Interaction: Frontend development handles user interactions and provides a visual interface, while backend development handles data processing, storage, and communication between the frontend and the server.
 Execution Environment: Frontend code runs in the user's web browser, while backend code runs on the server.
+
+Block Scoping:
+
+The concept of variables being scoped to the nearest enclosing block "{}", rather than being scoped to the entired function(like with "var")
