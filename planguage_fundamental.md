@@ -43,3 +43,7 @@ Execution Environment: Frontend code runs in the user's web browser, while backe
 Block Scoping:
 
 The concept of variables being scoped to the nearest enclosing block "{}", rather than being scoped to the entired function(like with "var")
+
+The DOM:
+
+a cross-platform and language-independent interface that treats an HTML or XML document as a tree structure wherein each node is an object representing a part of the document. It enables programs and scripts to interacct with and manipulate web page content dynamically, allowing for dynamic updates, interactivity, and event handling.
