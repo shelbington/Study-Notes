@@ -47,3 +47,7 @@ The concept of variables being scoped to the nearest enclosing block "{}", rathe
 The DOM:
 
 a cross-platform and language-independent interface that treats an HTML or XML document as a tree structure wherein each node is an object representing a part of the document. It enables programs and scripts to interacct with and manipulate web page content dynamically, allowing for dynamic updates, interactivity, and event handling.
+
+Event Listener:
+
+a function that initiates a predefined process if a specific event occurs. So, an event listener “listens” for an action, then calls a function that performs a related task. This event can take one of many forms. Common examples include mouse events, keyboard events, and window events.
